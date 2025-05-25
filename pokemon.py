@@ -8,7 +8,7 @@ class Pokemon:
         self.attack = attack
         self.defense = defense
         self.skills = skills
-        self.status = None  # e.g., "poison", "paralysis"
+        self.status = None  
         self.status_duration = 0  # number of turns the status lasts
 
     def is_alive(self):
@@ -54,4 +54,4 @@ class Pokemon:
             if opponent.status is None and random.random() < 0.4:
                 opponent.status = skill.status_effect
                 opponent.status_duration = 1
-                print(f"{opponent.name} is now affected by {skill.status_effect} for 3 turns!")
+                print(f"{opponent.name} is now affected by {skill.status_effect} for 1 turns!")

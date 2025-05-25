@@ -1,2 +1,4 @@
 # final-project
 Pokémon Battle
+Pokémon Battle is a classic turn-based combat game where players can freely choose one of six popular Pokémon to engage in a strategic showdown against an automatically selected opponent. Each Pokémon possesses four unique skills, including high-damage attacks and status-inflicting moves such as paralysis and poison, adding depth and unpredictability to every battle. The game features a nostalgic text-based interface that presents the full combat process in an immersive and engaging way. With simple controls and rich tactical variety, it offers a thrilling experience for players of all ages. Whether you're a longtime Pokémon fan or a lover of turn-based combat, this game brings back the excitement and passion of childhood as you fight your way toward becoming a true Pokémon Master.
+
